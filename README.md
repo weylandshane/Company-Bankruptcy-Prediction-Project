@@ -1,3 +1,3 @@
-# bankrputcy-prediction-project
+# bankruptcy-prediction-project
  A kaggle competition: 
-predicting company bankruptcy using machine learning methods
+predicting company bankruptcy using various Machine Learning Classification Methods
